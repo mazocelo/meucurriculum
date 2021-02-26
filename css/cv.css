@@ -1,0 +1,188 @@
+.cv {
+    display: flex;
+    font-family: 'Pontano Sans', sans-serif;
+    height: 100%;
+}
+
+.div-lat-esq {
+    display: block;
+    padding: 20px 0 0 50px;
+    width: 412px;
+    text-align: justify;
+    font-size: small;
+    background-color: #3e659e;
+    border-top-left-radius: 3%;
+    border-bottom-left-radius: 3%;
+    border: 1px gray solid;
+    color: #FFFFFF;
+}
+
+.main {
+    display: flex;
+    padding-left: 60px;
+    flex-direction: column;
+    flex-flow: column;
+}
+
+.descrip {
+    padding-left: 25px;
+}
+
+.card {
+    border: black 2px solid;
+    border-radius: 50%;
+    width: 2.2rem;
+    height: 2.2rem;
+}
+
+.container-pessoal {
+    display: flex;
+}
+
+.idiomas {
+    padding-top: 40px;
+}
+
+.container-idiomas {
+    display: block;
+    clear: both;
+}
+
+.idioma {
+    float: left;
+}
+
+.estrelas {
+    padding-right: 20px;
+    float: right;
+}
+
+.container {
+    display: flex;
+    padding: 20px;
+    margin: 0 auto;
+    padding-bottom: 6px;
+}
+
+h3 {
+    padding: 0px;
+    margin: 8px;
+}
+
+i {
+    margin: 5px;
+    padding-left: 1px;
+}
+
+.div-data {
+    padding: 0px 0px 27px 38px;
+    margin: 0px 0px 0px 38px;
+    border-left: 2px grey solid;
+    font-weight: lighter;
+    height: 110px;
+    /* font-family: ;*/
+    position: relative;
+}
+
+.first {
+    height: 20px;
+}
+
+.bolinhas {
+    position: absolute;
+    left: -42px;
+    bottom: 0px;
+    border: 2px grey solid;
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+    margin-left: 36px;
+    background-color: white;
+}
+
+.data {
+    position: absolute;
+    bottom: -22px;
+    color: #3e659e;
+    font-size: 1rem;
+    padding-bottom: 10px;
+}
+
+.data h3 {
+    font-weight: 100;
+}
+
+.ocupacao {
+    position: absolute;
+    bottom: -32px;
+    left: 300px;
+}
+
+.ocupacao p {
+    margin: 0;
+    margin-left: 3px;
+    padding: 0;
+    position: absolute;
+    width: 700px;
+}
+
+.ocupacao h3 {
+    margin: 3px;
+}
+
+.ocupacao h4 {
+    margin: 3px;
+    color: #3e659e;
+    font-weight: 200;
+}
+
+.formacoes,
+.cursos {
+    margin-top: 100px;
+}
+
+.programacao {
+    margin-top: 60px
+}
+
+.conhecimento {
+    display: flex;
+    padding-top: 30px;
+}
+
+.simbolo {
+    height: 60px;
+    width: auto;
+    padding-left: 80px;
+    padding-top: 0;
+}
+
+.titulo-conhecimento {
+    padding: 15px 80px 0 80px;
+    margin-top: 0;
+    width: 120px;
+}
+
+.estrelinha {
+    margin-top: 0;
+    padding-top: 15px;
+}
+
+.double-img {
+    padding-left: 60px;
+}
+
+.html-titulo {
+    padding-right: 78px;
+    padding-left: 60px;
+}
+
+.rodape {
+    padding-top: 100px;
+    text-align: right;
+}
+
+footer h6 {
+    margin: 0;
+    padding: 0;
+}
