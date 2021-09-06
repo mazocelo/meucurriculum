@@ -51,8 +51,7 @@
   }
 
 a{
-    float: right;
-    cursor: default;
+  
     font-size: 2em;
 }
 a: active{
