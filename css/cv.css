@@ -47,12 +47,14 @@
     padding-top: 40px;
 }
 .portifolio{
+    
    display:block;
    padding-top: 40px;
-    align-text: center;
+  
 }
 
 a{
+    float: left;
     cursor: default;
     font-size: 2em;
 }
