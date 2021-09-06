@@ -47,11 +47,13 @@
     padding-top: 40px;
 }
 .portifolio{
-    display:flex;
+   
      padding-top: 40px;
 }
 
 .a{
+    pointer-events: none;
+    cursor: default;
     font-size: 1.2em;
 }
 
