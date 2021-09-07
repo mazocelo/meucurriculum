@@ -51,6 +51,7 @@
   }
 
 .portifolio a{
+    text-decoration: none; 
   padding:10px;
   margin:5px;
   font-size: 1.5em;
