@@ -56,7 +56,7 @@
   margin:5px;
   font-size: 1.5em;
 }
-a: active{
+a:link{
     color: white;
     text-decoration: none;    
 }
