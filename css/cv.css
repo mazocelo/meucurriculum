@@ -57,10 +57,22 @@
   font-size: 1.5em;
   color: black;
 }
+
+.portifolio a:link{
+    color: white;
+    text-decoration: none;    
+}
+.portifolio a:visited{
+    color: white;
+    text-decoration: none;    
+}
+
 a:link{
     color: black;
     text-decoration: none;    
 }
+
+
 a:visited{
     color: black;
     text-decoration: none;    
