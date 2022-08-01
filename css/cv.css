@@ -1,3 +1,8 @@
+body{
+    /**/
+    margin:0;
+    padding:0;
+}
 .cv {
     display: flex;
     font-family: 'Pontano Sans', sans-serif;
@@ -13,7 +18,7 @@
     background-color: #3e659e;
     border-top-left-radius: 3%;
     border-bottom-left-radius: 3%;
-    border: 1px gray solid;
+    /*border: 1px gray solid; */
     color: #FFFFFF;
 }
 
